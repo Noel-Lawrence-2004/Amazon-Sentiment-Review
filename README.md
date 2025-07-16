@@ -87,13 +87,8 @@ The dataset used is `Reviews.csv`, which includes Amazon product reviews and cor
 ## 🚀 How to Run Locally
 
 ### Clone the repository
-git clone https://github.com/yourusername/amazon-sentiment-analysis.git
-cd amazon-sentiment-analysis
-
-
-### Install dependencies
-pip install -r requirements.txt
+git clone[ https://github.com/yourusername/amazon-sentiment-analysis.git](https://github.com/Noel-Lawrence-2004/Amazon-Sentiment-Review.git)
 
 
 ### Run the notebook/script
-python review_sentiment.py
+python review_sentiment.ipynb
